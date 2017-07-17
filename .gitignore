@@ -1,8 +1,6 @@
 data
 .idea
+serverPH.js
 .DS_Store
 deploy.sh
 node_modules
-build/scss/*.old
-public/index2.html
-public/css/styletemp.css
